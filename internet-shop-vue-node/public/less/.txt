@@ -1,0 +1,13 @@
+   &_first_product {
+        background-image url('..imagesphotosgallery_img3.jpg');
+        background-position-x center;
+        background-repeat no-repeat;
+        background-size contain;
+    }
+
+    &_second_product {
+        background-image url('..imagesphotosgallery_img7.svg');
+        background-position-x center;
+        background-repeat no-repeat;
+        background-size contain;
+    }
